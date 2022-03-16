@@ -3,7 +3,7 @@
 NFT website collaboration project. <br />
 
 View Demo👇: <br />
-https://the-weirdos.netlify.app/ <br />
+<!--https://the-weirdos.netlify.app/ <br />-->
 
 Thanks to: <br />
 codebucks for inspiration and awesome website.
